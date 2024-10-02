@@ -1,14 +1,6 @@
 {
   "urls": [
         {
-            "url": "https://tv.xn--yhqu5zs87a.top",
-            "name": "菜妮丝线路"
-        },
-        {
-            "url": "https://毒盒.com/tv",
-            "name": "毒盒线路"
-        },
-        {
             "url": "http://www.饭太硬.com/tv",
             "name": "饭太硬线路"
         },          
@@ -16,6 +8,10 @@
             "url": "http://肥猫.com",
             "name": "肥猫线路"
         },  
+        {
+            "url": "https://毒盒.com/tv",
+            "name": "毒盒线路"
+        },
         {
             "url": "https://gitee.com/tv888/tv/raw/master/svip.json",
             "name": "天微线路"
@@ -115,6 +111,10 @@
         {
             "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
             "name": "短剧合集线路"
+        },
+        {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "菜妮丝线路"
         },
         {
             "url": "http://jin.锦哥哥.love",
